@@ -1,6 +1,6 @@
 body {
     margin: 0;
-    background-color: #2e2727;
+    background-color: #181818;
     font-family: Tahoma, sans-serif;
     font-family: japanFont;
 }
@@ -40,6 +40,12 @@ body {
 .divMapItinerary{
 
     text-align: center;
+}
+
+.pText{
+    Color: white;
+    font-size: 40px;
+    text-shadow: 2px 2px 5px rgb(233,72,64);
 }
 
 @font-face {
